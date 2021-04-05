@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vishwadeepika
-- 👀 I’m interested in challenges
-- 🌱 I’m currently learning Python, SQL and Business Analytics
+**Tic Tac Toe**  
+
+It is a simple tic toc toe game consisting of two players. It is coded in python
 
 <!---
 vishwadeepika/vishwadeepika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
